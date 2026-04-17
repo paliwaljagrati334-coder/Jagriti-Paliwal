@@ -1,0 +1,84 @@
+# 📦 Supply Chain Analytics Capstone Project
+
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-blue?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Supply%20Chain-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+---
+
+## 🚀 Project Overview
+
+A professional capstone project focused on **Supply Chain & Logistics Data Analysis** using **Microsoft Excel**. This project transforms raw operational data into actionable business insights through dashboards, KPIs, pivot reports, and trend analysis.
+
+It demonstrates how data-driven decisions can improve supplier performance, warehouse productivity, delivery efficiency, and cost control.
+
+---
+
+## 🎯 Business Objectives
+
+✔ Analyze supplier reliability  
+✔ Improve warehouse performance  
+✔ Track order fulfillment rates  
+✔ Reduce delivery delays  
+✔ Monitor procurement costs  
+✔ Support strategic decision-making  
+
+---
+
+## 📊 Key Insights Generated
+
+### 📌 Supplier Performance
+- Total orders vs delivered units  
+- Supplier-wise efficiency ranking  
+- Delay / shortage identification  
+
+### 📌 Warehouse Analysis
+- Orders processed by warehouse  
+- Fastest warehouse comparison  
+- Capacity & efficiency trends  
+
+### 📌 Regional Demand Analysis
+- Region-wise sales/orders  
+- High demand zones  
+- Delivery performance by region  
+
+### 📌 Cost Optimization
+- Total spend analysis  
+- Cost per unit trends  
+- High-cost supplier/category detection  
+
+---
+
+## 🛠 Tools & Skills Used
+
+| Category | Skills |
+|----------|--------|
+| Tool | Microsoft Excel |
+| Analysis | Data Cleaning, KPI Tracking |
+| Reporting | Pivot Tables, Pivot Charts |
+| Visualization | Dashboard Design |
+| Business Skills | Supply Chain Analytics |
+
+---
+
+## 📈 Dashboard Features
+
+✅ KPI Cards  
+✅ Dynamic Filters / Slicers  
+✅ Supplier Comparison Charts  
+✅ Delivery Performance Tracker  
+✅ Region-wise Analysis  
+✅ Cost Monitoring Reports  
+
+---
+
+## 📂 Project File
+
+```bash
+CAPSTONE PROJECT.xlsx
+
+## 👩‍💻 Author
+
+**Jagrati Paliwal**  
+MBA | Logistics & Supply Chain Management
